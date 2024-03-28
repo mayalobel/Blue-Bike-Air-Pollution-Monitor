@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Sensors")(type "KiCad")(uri "${KIPRJMOD}/Sensors.kicad_sym")(options "")(descr ""))
-  (lib (name "Methane")(type "KiCad")(uri "${KIPRJMOD}/Methane.kicad_sym")(options "")(descr ""))
-)
