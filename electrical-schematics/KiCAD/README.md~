@@ -1,0 +1,4 @@
+## 2024-02-21 Design Review Notes
+
+* The ESP32 symbol on the schematic has no pin numbers!
+  Please add them, else there are no connections to the device.
